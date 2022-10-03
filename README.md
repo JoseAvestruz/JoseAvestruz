@@ -1,4 +1,4 @@
-### Olá Eu sou o JoseAvestruz👋
+## Oiii✌✌ eu sou a JoseAvestruz, capaixonado por conteúdo de programação e tecnologia!
 
 Hoje Trabalho como Frond-End Freelancer 
 - 🌱Estudando PHP,JavaScript,Dart,Mysql
@@ -10,7 +10,6 @@ Hoje Trabalho como Frond-End Freelancer
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAvestruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAvestruz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jose-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
@@ -21,4 +20,4 @@ Hoje Trabalho como Frond-End Freelancer
   <img align="center" alt="jose-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
- ##
+  ##

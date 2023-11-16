@@ -1,4 +1,4 @@
-## Oiii✌✌ eu sou a JoseAvestruz, capaixonado por conteúdo de programação e tecnologia!
+## Oiii✌✌ eu sou a JoseAvestruz, apaixonado por conteúdo de programação e tecnologia!
 
 Hoje Trabalho como Frond-End Freelancer 
 - 🌱Estudando PHP,JavaScript,Dart,Mysql

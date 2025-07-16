@@ -1,9 +1,12 @@
-## Oiii✌✌ eu sou a JoseAvestruz, apaixonado por conteúdo de programação e tecnologia!
-
-Hoje Trabalho como Frond-End Freelancer 
-- 🌱Estudando PHP,JavaScript,Dart,Mysql
-- 📫contactar-me no email: josemaravestruz@gmail.com
-- 😀Ensino Mêdio em Gestão de Sistemas 
+## 👋 Olá! Eu sou José
+ 💻 Desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas
+ 
+ - 🎓 Formado em Gestão de Sistemas Informáticos, com base sólida em lógica, redes, bancos de dados e desenvolvimento de sistemas.
+- 🌐 Web Developer | JavaScript | React.js | UX Design | Git | WordPress | SEO | Marketing
+- 🔧 Trabalho com: 
+- 📫contactar-me no email: joseavestruz4@gmail.com
+- Dev Front-End | React | WordPress | Curioso, proativo e aprendendo sempre | Futuro Full Stack 🚀
+- 🚀 Sempre aberto a colaborar em projetos interessantes!
 
 <div align="center">
   <a href="https://github.com/JoseAvestruz">

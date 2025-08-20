@@ -1,12 +1,11 @@
-## 👋 Olá! Eu sou José
- 💻 Desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas
+## 👋 Hi! I´am José
+ Passionate developer about technology, clean code, and creative solutions."
  
  - 🎓 Formado em Gestão de Sistemas Informáticos, com base sólida em lógica, redes, bancos de dados e desenvolvimento de sistemas.
-- 🌐 Web Developer | JavaScript | React.js | UX Design | Git | WordPress | SEO | Marketing
+- 🌐 Front End & Mobile Developer | JavaScript | React.Js | Node.Js |  UI Design | Git | Typescript | SEO | Marketing
 - 🔧 Trabalho com: 
-- 📫contactar-me no email: joseavestruz4@gmail.com
-- Dev Front-End | React | WordPress | Curioso, proativo e aprendendo sempre | Futuro Full Stack 🚀
-- 🚀 Sempre aberto a colaborar em projetos interessantes!
+- 📫 Contact me at: joseavestruz4@gmail.com
+- 🚀  Curious, proactive, and always learning | Future Full Stack !
 
 <div align="center">
   <a href="https://github.com/JoseAvestruz">

@@ -1,7 +1,7 @@
 ## 👋 Hi! I´am José
  Passionate developer about technology, clean code, and creative solutions."
  
- - 🎓 Formado em Gestão de Sistemas Informáticos, com base sólida em lógica, redes, bancos de dados e desenvolvimento de sistemas.
+ 🎓 Graduated in Information Systems Management, with a solid foundation in logic, networks, databases, and systems development.
 - 🌐 Front End & Mobile Developer | JavaScript | React.Js | Node.Js |  UI Design | Git | Typescript | SEO | Marketing
 - 🔧 Trabalho com: 
 - 📫 Contact me at: joseavestruz4@gmail.com

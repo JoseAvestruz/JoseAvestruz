@@ -6,7 +6,7 @@
 - 🔧 Trabalho com: 
 - 📫 Contact me at: joseavestruz4@gmail.com
 - 🚀  Curious, proactive, and always learning | Future Full Stack !
-- Website  <a href="https://www.joseavestruz.42web.io" target="_blank">
+- 🌐 https://www.joseavestruz.42web.io
 
    
 <div style="display: inline_block"><br>

@@ -2,10 +2,11 @@
  Passionate developer about technology, clean code, and creative solutions."
  
  🎓 Graduated in Information Systems Management, with a solid foundation in logic, networks, databases, and systems development.
-- 🌐 Front End & Mobile Developer | JavaScript | React.Js | Node.Js |  UI Design | Git | Typescript | SEO | Marketing
+- 🌐 Front End & Mobile Developer Front End & Mobile Developer | JavaScript | React.Js | React Native | Expo | Node.Js | UI Design | Git | Typescript |
 - 🔧 Trabalho com: 
 - 📫 Contact me at: joseavestruz4@gmail.com
 - 🚀  Curious, proactive, and always learning | Future Full Stack !
+- Website  <a href="https://www.joseavestruz.42web.io" target="_blank">
 
    
 <div style="display: inline_block"><br>

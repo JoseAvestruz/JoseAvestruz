@@ -17,7 +17,7 @@
 
 <h1 align="center">👋 Hi there, I'm José</h1>
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me !</h3>
 
 <p align="left">
 I'm a Front-End & Mobile Developer dedicated to building modern, responsive, and high-performance digital experiences.
@@ -37,73 +37,41 @@ Currently pursuing a Bachelor's degree in Software/Computer Engineering.
 
 <div align="left">
 
+ <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="HTML5" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="26" alt="Tailwind CSS" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="React" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="MySQL" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="26" alt="Next.js" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="26" alt="Android" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" alt="Bootstrap" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="Figma" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="Git" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="26" alt="Insomnia" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="26" alt="Notion" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="26" alt="Trello" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" />
-  <img width="12" />
-
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="VS Code" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/JoseAvestruz/JoseAvestruz/stats-output/stats.svg"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/JoseAvestruz/JoseAvestruz/languages-output/languages.svg"
-    height="150"
-    alt="Top Languages"
-  />
+</p>
 
 </div>
 
